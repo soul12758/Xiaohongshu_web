@@ -3,7 +3,7 @@
 
 获取非登录session
 获取登录session
-最新版XS，XT，X-S,X-T。
+最新版XS，XT，X-S,X-T纯算法
 
 {
     "msg":{
